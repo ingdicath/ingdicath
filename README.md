@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**ingdicath/ingdicath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Diana and I'm studing how to become a software engineer, there are many challenges involved and I love it!!.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm from Colombia living in the Netherlands since 2019.
+
+
+Before CODAM, I worked as a revenue management analyst in an airline in Colombia.
+
+
+- 🌱 I’m currently learning software engineering at [CODAM](https://www.codam.nl/en/)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/dianasalamanca)
+- ⚡ Hobbies: Running🏃 -> marathoner x 8, looking for [World Marathon Majors](https://www.worldmarathonmajors.com/about/overview/)
+- ✨💬👯🔭
