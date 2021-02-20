@@ -16,8 +16,16 @@ I'm from Colombia living in the Netherlands since 2019.
 
 #### How to reach me
 - [Linkedin](www.linkedin.com/in/dianasalamanca).
+
+
+<a href= "www.linkedin.com/in/dianasalamanca"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:dianitasale@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 ---
 ### Skills
+
+<img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/ruby%20-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/slack%20-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/vscode%20-007ACC.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
 
 C, Docker, Kubernetes
 ---
