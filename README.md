@@ -15,10 +15,9 @@ I'm from Colombia living in the Netherlands since 2019.
 - 💬👯
 
 #### How to reach me
-- [Linkedin](www.linkedin.com/in/dianasalamanca).
 
+<a href= "https://www.linkedin.com/in/dianasalamanca/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:dianitasale@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href= "www.linkedin.com/in/dianasalamanca"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:dianitasale@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 ---
 ### Skills
 
