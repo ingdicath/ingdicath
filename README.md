@@ -1,26 +1,23 @@
-# Hello world 👋
+<h1 align="center">Hi 👋, I'm Diana Salamanca</h1>
+<h3 align="center">A passionate software developer from Colombia 🇨🇴</h3>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-My name is Diana and I'm software engineer.
+- 📚 I studied Software Engineering at CODAM, part of the [42 - The Network](https://www.42network.org/) schools.
+- 🔭 I’m currently working on [**Swisscom**](https://sdcrotterdam.swisscom.ch/).
+- 🌱 I’m currently learning **Spring Boot, Vue, Kafka**.
+- 🏃 I run marathons. I've already run 10, looking for [World Marathon Majors](https://www.worldmarathonmajors.com/about/overview/).
+- ⚡ Fun fact: I always try to pet every single cat or dog that I see on the streets 😅
 
-- 🌎 I'm from Colombia living in the Netherlands.
-- 🌱 I studied software engineering at [CODAM](https://www.codam.nl/en/), part of the [42 The Network schools](https://www.42network.org/)
-- 🏃 I love sports, specially running. I've already run 10 marathons, looking for [World Marathon Majors](https://www.worldmarathonmajors.com/about/overview/).
-- ⚡ I have a bachelor's degree in Industrial Engineering.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dianasalamanca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dianasalamanca/" height="30" width="40" /></a>
+</p>
 
-- "Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain". V. Greene
-
-
-#### How to reach me
-
-<a href= "https://www.linkedin.com/in/dianasalamanca/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:dianitasale@gmail.com"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
----
-### Tecnologies and tools
-
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingdicath&layout=compact&theme=tokyonight&hide=swift,roff,PHP,Assembly)](https://github.com/ingdicath/github-readme-stats)
 
 [![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingdicath&theme=tokyonight&count_private&show_icons=true&hide=contribs,issues)](https://github.com/ingdicath/github-readme-stats)
+
+
