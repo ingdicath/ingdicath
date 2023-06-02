@@ -1,11 +1,14 @@
+<div id="header" align="center">
+<img width="600" height="300" src="https://media0.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e47pml8xz7ozoujmktax6kt5rdo28zff5tifoklnai1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  </div>
 <h1 align="center">Hi 👋, I'm Diana Salamanca</h1>
 <h3 align="center">A passionate software developer from Colombia 🇨🇴</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 📚 I studied Software Engineering at CODAM, part of the [42 - The Network](https://www.42network.org/) schools.
+- 📚 I studied Software Engineering at CODAM, part of the [42 - The Network](https://www.42network.org/).
 - 🔭 I’m currently working on [**Swisscom**](https://sdcrotterdam.swisscom.ch/).
 - 🌱 I’m currently learning **Spring Boot, Vue, Kafka**.
-- 🏃 I run marathons. I've already run 10, looking for [World Marathon Majors](https://www.worldmarathonmajors.com/about/overview/).
+- 🏃 I run marathons. I've already run 10, looking for [Marathon Majors](https://www.worldmarathonmajors.com/about/overview/).
 - ⚡ Fun fact: I always try to pet every single cat or dog that I see on the streets 😅
 
 <h3 align="left">Connect with me:</h3>
