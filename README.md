@@ -1,10 +1,10 @@
 # Hello world 👋
 
-My name is Diana and I'm software engineer in progress.
+My name is Diana and I'm software engineer.
 
-I'm from Colombia living in the Netherlands.
-- 🌱 I’m currently learning software engineering at [CODAM](https://www.codam.nl/en/).
-- 🏃 I love sports, specially running. I've already run 8 marathons, looking for [World Marathon Majors](https://www.worldmarathonmajors.com/about/overview/).
+- 🌎 I'm from Colombia living in the Netherlands.
+- 🌱 I studied software engineering at [CODAM](https://www.codam.nl/en/), part of the [42 The Network schools](https://www.42network.org/)
+- 🏃 I love sports, specially running. I've already run 10 marathons, looking for [World Marathon Majors](https://www.worldmarathonmajors.com/about/overview/).
 - ⚡ I have a bachelor's degree in Industrial Engineering.
 
 - "Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain". V. Greene
