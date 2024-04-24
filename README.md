@@ -8,7 +8,7 @@
 - 📚 I studied Software Engineering at CODAM, part of the [42 - The Network](https://www.42network.org/).
 - 🔭 I’m currently working on [**Swisscom**](https://sdcrotterdam.swisscom.ch/).
 - 🌱 I’m currently learning **Spring Boot**.
-- 🏃 I run marathons. I've already run 10, looking for [Marathon Majors](https://www.worldmarathonmajors.com/about/overview/).
+- 🏃 I run marathons. I've already run 12, looking for [Marathon Majors](https://www.worldmarathonmajors.com/about/overview/).
 - ⚡ Fun fact: I always try to pet every cat or dog that I see on the streets 😅
 
 ### Connect with me:
